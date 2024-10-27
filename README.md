@@ -16,13 +16,7 @@ This project designs and implements a scalable network infrastructure for a smal
 - **Networking Protocols**: VLANs, DHCP, ACLs, NAT, OSPF, and SSH.
 - **Hardware**: Cisco Routers and Switches for core networking.
 
-## Authors
-- Abdelrhman Mamdouh
-- Aya Abdelaty
-- Lugyn Mahmoud
-- Osama Mosdak
-- Sagy Abdalaziz
-- Yasmin Hassan
+
 
 ## Getting Started
 1. Clone the repository:
