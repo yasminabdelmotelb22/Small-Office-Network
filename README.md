@@ -18,7 +18,4 @@ This project designs and implements a scalable network infrastructure for a smal
 
 
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+
